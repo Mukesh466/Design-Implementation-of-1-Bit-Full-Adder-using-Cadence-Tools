@@ -72,7 +72,7 @@ iii)	Creating the Symbol for schematic Cell view
 
 iv)	Creating the new test cell view
 
-•	Go to CIW window, Execute File-New-Cell view
+•	Go to CIW window, Execute File-New-Cell view.
 	Setup the new file form
 	Library: Select the one you created.
 	Cell: Cell name must be different from the name used in schematic cell view. Ex: Inverter_test
